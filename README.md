@@ -15,7 +15,7 @@ For newer versions, install
 ```
 pip install crispy-bootstrap4
 ```
-instead of pip install django-crispy-forms
+instead of 'pip install django-crispy-forms'
 
 
  ## How it works ?
