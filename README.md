@@ -9,8 +9,14 @@ Content Discussed :
 ## Get the Code
 
 ```
-$ git clone https://github.com/CodAffection/Django-CRUD-Operations.git
+git clone https://github.com/CodAffection/Django-CRUD-Operations.git
 ```
+For newer versions, install
+```
+pip install crispy-bootstrap4
+```
+instead of 'pip install django-crispy-forms'
+
 
  ## How it works ?
  
